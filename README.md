@@ -1,4 +1,5 @@
 # natal-map
-Natal map for people
+
 
 Maybe you can leave from world.
+To create your world!
